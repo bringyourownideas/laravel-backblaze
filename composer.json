@@ -22,12 +22,12 @@
     },
     {
       "name": "Peter Thaleikis",
-      "homepage": "https://github.com/bringyourownideas",
+      "homepage": "https://bringyourownideas.com/",
       "role": "Developer"
     }
   ],
   "require": {
-    "php": ">=5.5.0",
+    "php": ">7.0",
     "mhetreramesh/flysystem-backblaze": "*"
   },
   "autoload": {
