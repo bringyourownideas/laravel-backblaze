@@ -9,6 +9,10 @@ At [bring your own ideas Ltd.](https://bringyourownideas.com) it is used in comb
 
 The code is based on [Paul Olthof](https://github.com/hpolthof)s [unmaintained repo](https://github.com/hpolthof/laravel-backblaze) and addresses mostly bugs at this point.
 
+## Step by Step guide
+
+On our company website we have released a detailed step by step guide to [back up your Laravel projects to Backblaze](https://bringyourownideas.com/blog/backing-up-your-laravel-project-to-backblaze-b2/?utm_source=github&utm_medium=repo&utm_campaign=laravel-backblaze). Feel free to reach out if you find any mistakes or have trouble implementing the steps.
+
 ## Installation
 
 Via Composer
