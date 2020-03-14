@@ -30,6 +30,9 @@
     "php": ">7.0",
     "mhetreramesh/flysystem-backblaze": "*"
   },
+  "require-dev": {
+      "symfony/thanks": "^1.0"
+  },
   "autoload": {
     "psr-4": {
       "bringyourownideas\\Backblaze\\": "src"
