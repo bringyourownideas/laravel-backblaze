@@ -11,7 +11,7 @@
     "backblaze",
     "disks"
   ],
-  "homepage": "https://github.com/bringyourownideas/laravel-backblaze",
+  "homepage": "https://bringyourownideas.com/blog/backing-up-your-laravel-project-to-backblaze-b2/",
   "license": "MIT",
   "authors": [
     {
@@ -22,12 +22,12 @@
     },
     {
       "name": "Peter Thaleikis",
-      "homepage": "https://bringyourownideas.com/",
+      "homepage": "https://peterthaleikis.com/",
       "role": "Developer"
     }
   ],
   "require": {
-    "php": ">7.0",
+    "php": "^7.2",
     "mhetreramesh/flysystem-backblaze": "*"
   },
   "require-dev": {
