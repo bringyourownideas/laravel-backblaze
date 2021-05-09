@@ -10,6 +10,11 @@ At [bring your own ideas Ltd.](https://github.com/bringyourownideas) it is used 
 The code is based on [Paul Olthof](https://github.com/hpolthof)s [unmaintained repo](https://github.com/hpolthof/laravel-backblaze) and addresses mostly bugs at this point.
 
 
+## Use B2 via S3
+
+As B2 has an S3-compatiable interface it's recommended to use this instead. See https://github.com/bringyourownideas/laravel-backblaze/issues/6#issuecomment-769718518 for more details. It's unlikely this package will be maintained further and migrating is recommended.
+
+
 ## Step by Step Guide
 
 On our company website we have released a detailed step by step guide to [back up your Laravel projects to Backblaze](https://bringyourownideas.com/blog/backing-up-your-laravel-project-to-backblaze-b2/). Feel free to reach out if you find any mistakes or have trouble implementing the steps.
